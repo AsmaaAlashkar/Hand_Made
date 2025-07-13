@@ -1,0 +1,6 @@
+@HandMadeDotNet.API_HostAddress = http://localhost:5002
+
+GET {{HandMadeDotNet.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
