@@ -1,0 +1,15 @@
+# ==== Ignore Angular build & deps ====
+/HandMadeAngular17/node_modules/
+/HandMadeAngular17/dist/
+
+# ==== Ignore .NET build output ====
+/HandMadeDotNet/bin/
+/HandMadeDotNet/obj/
+
+# ==== (Optional) Ignore other common junk ====
+.vscode/
+.idea/
+/.vs/
+/*.log
+*.user
+*.suo
